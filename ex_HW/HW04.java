@@ -1,5 +1,5 @@
-package ex_HW;
-
+﻿package ex_HW;
+//
 
 
 import java.io.BufferedReader;
